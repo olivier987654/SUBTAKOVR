@@ -12,7 +12,7 @@ Usage
 
 ## Installation: Clone the repository and install the required Python packages.
 
-bash
+```bash
 Copy code
 git clone [repository URL]
 cd SUBTAKOVR
@@ -27,6 +27,7 @@ With Delay:
 bash
 Copy code
 python subtakovr.py -f path/to/subdomains.txt -d 1.5
+```
 Help:
 
 Copy code
